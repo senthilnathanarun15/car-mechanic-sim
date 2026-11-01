@@ -1,1 +1,0 @@
-# car-mechanic-sim
